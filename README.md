@@ -1,2 +1,59 @@
 # OpenPGP Public Key
  PGP public key for andy@andy-hsieh.com
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+=HFVF
+-----END PGP PUBLIC KEY BLOCK-----
+
+
+# Security Warning!
+
+Even though I’ve provided my PGP Public Key here, it’s very likely that the site’s server may be compromised by the government, NSA, etc. so that the PGP Public Key for “andy@andy-hsieh.com” here may not belong to mine, it’s another fake new one created by the NSA. This is why out-of-band verification is very important. You have to make sure that the following PGP Public Key is actually mine. I’ve provided some external ‘bands’ to check against the key provided here. It will be, theoretically, harder for the NSA to control all the ‘bands’. Of course, the best way to verify the key is just to meet me in person.
